@@ -1,5 +1,5 @@
 
-#` hi `
+# ` hi `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 lr -add a blank line row
@@ -12,17 +12,17 @@ rs -get command line only, using $ in title styled
 
 # Let's get started knowing about some enviroment variables
 
-##$ echo "# Let's get started knowing about some enviroment variables">>draft-README.md
+### $ echo "### Let's get started knowing about some enviroment variables">>draft-README.md
 
-#` echo "# Let's get started knowing about some enviroment variables" `
+# ` echo "# Let's get started knowing about some enviroment variables" `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 # Let's get started knowing about some enviroment variables
 ```
 
-#` git remote add upstream git@github.com:PortalNetZone/project_hi.git `
+# ` git remote add upstream git@github.com:PortalNetZone/project_hi.git `
 
-#` git remote -v `
+# ` git remote -v `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 upstream	git@github.com:PortalNetZone/project_hi.git (fetch)
@@ -30,7 +30,7 @@ upstream	git@github.com:PortalNetZone/project_hi.git (push)
 ```
 
 
-#` git branch -a `
+# ` git branch -a `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 * master
@@ -38,7 +38,7 @@ upstream	git@github.com:PortalNetZone/project_hi.git (push)
 ```
 
 
-#` git log `
+# ` git log `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 commit 39d09d43d24cde70f8d9340a2a9544fbd8274eea
@@ -49,14 +49,14 @@ Date:   Tue Oct 12 21:03:22 2021 -0300
 ```
 
 
-#` git remote update --prune `
+# ` git remote update --prune `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 Fetching upstream
 ```
 
 
-#` git pull upstream master `
+# ` git pull upstream master `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 From github.com:PortalNetZone/project_hi
@@ -64,7 +64,7 @@ From github.com:PortalNetZone/project_hi
 fatal: refusing to merge unrelated histories
 ```
 
-#` git push -u upstream master `
+# ` git push -u upstream master `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 To github.com:PortalNetZone/project_hi.git
@@ -76,7 +76,7 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-#` git log `
+# ` git log `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 commit 314408ddbcf1790d88bd4f6606cdeef67b19d8a5
@@ -93,7 +93,7 @@ Date:   Tue Oct 12 20:30:02 2021 -0300
 ```
 
 
-#` git remote -v `
+# ` git remote -v `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 upstream	git@github.com:PortalNetZone/project_hi.git (fetch)
@@ -101,7 +101,7 @@ upstream	git@github.com:PortalNetZone/project_hi.git (push)
 ```
 
 
-#` git remote update --prune `
+# ` git remote update --prune `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 Fetching upstream
@@ -116,7 +116,7 @@ From github.com:PortalNetZone/project_hi
 
 
 
-#` git pull `
+# ` git pull `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 Updating 314408d..5952ad3
@@ -130,7 +130,7 @@ Fast-forward
 ### Let's create the .gitignore file
 #### To ignore the .idea/ directory
 
-#` git status `
+# ` git status `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 On branch master
@@ -149,9 +149,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 
-#` echo ".idea/">>.gitignore `
+# ` echo ".idea/">>.gitignore `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
-#` git status `
+# ` git status `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 On branch master
@@ -173,9 +173,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 2. For each valid command line ran, I'll `recall and record` in such a easily way just typing `rrt`
 3. There we go!
 
-#` git add .gitignore draft-README.md `
+# ` git add .gitignore draft-README.md `
 
-#` git status `
+# ` git status `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 On branch master
@@ -201,7 +201,7 @@ Untracked files:
 ```
 
 
-#` git commit -m "added files" `
+# ` git commit -m "added files" `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 [master 17aff1c] added files
@@ -210,7 +210,7 @@ Untracked files:
  create mode 100644 draft-README.md
 ```
 
-#` git push `
+# ` git push `
 <span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
 ```
 Enumerating objects: 5, done.
