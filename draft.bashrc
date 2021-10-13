@@ -26,4 +26,3 @@ alias rrt='lr && echo '"'"'#`'"'"' `fc -ln -1` '"'"'`'"'"' >> $VIRTUAL_ENV/../RE
 echo "<span style='"'"'color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'"'"'>- Path: $PWD</span>" >> $VIRTUAL_ENV/../README(draft).md && bs && fc -s >> $VIRTUAL_ENV/../README(draft).md && bs && lr'
 alias rrs='lr && echo "##$" `fc -ln -1` >> $VIRTUAL_ENV/../README(draft).md && 
 bs && fc -s >> $VIRTUAL_ENV/../README(draft).md && bs && lr'
-
