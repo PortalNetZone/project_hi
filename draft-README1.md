@@ -200,3 +200,25 @@ Untracked files:
 
 ```
 
+
+#` git commit -m "added files" `
+<span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
+```
+[master 17aff1c] added files
+ 2 files changed, 204 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 draft-README.md
+```
+
+#` git push `
+<span style='color:#fff; font-family: Dejavu Sans Mono; font-size: 1.1em;'>- Path: /home/marcosranes/Desktop/Hi</span>
+```
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 1.88 KiB | 963.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:PortalNetZone/project_hi.git
+   5952ad3..17aff1c  master -> master
+```
