@@ -89,7 +89,7 @@ Recording the title `rt` starting with $, `s` and Markdown level-2 `dd`.
 (Hi) marcosranes@ubuntu21-vbox:~/Desktop/Hi$ wr
 > # Now we're going to have the hi list to get and run some commands and see their respective behaviors
 > ## As you can see, we already have gotten started from the bottom to up, headed by Write Mode.
-> under that draft you can type everything you need. Don't worry about typed errors, you know you can edit them lately.  
+> under that draft you can type everything you need. Don't worry about typed errors, 'cause you know you can edit them later.  
 > As you can see once you already hhave skipped to the next row, you can't get back for editing the previous, keep calm
 > and wrap the things up here firstly." rw
 (Hi) marcosranes@ubuntu21-vbox:~/Desktop/Hi$ wr
@@ -106,7 +106,7 @@ Recording the title `rt` starting with $, `s` and Markdown level-2 `dd`.
 
 ## As you can see, we already have gotten started from the bottom to up, headed by Write Mode:
  
-Under that draft you can type everything you need. Don't worry about the typed errors, you know you can edit them lately.  
+Under that draft you can type everything you need. Don't worry about the typed errors, 'cause you know you can edit them later.  
 As you can see, once you already have skipped to the next row, you can't get back for editing the previous. Keep calm!!!
 Wrap the things up here firstly.
 
